@@ -8,12 +8,13 @@
     but the main version can run it on own<br> 
     Main version will come in 2023<br>
     
-    With:<br>
-        Bootloader<br>
-        Kernel<br>
-        Drivers<br>
-        File System<br>
-        and many more<br>
+    With:
+        Bootloader
+        Kernel
+        Drivers
+        File System
+        and many more
        
-    if you want to contribute please do it<br>
-    ========================================<br>
+    if you want to contribute please do it
+   
+ ========================================<br>
